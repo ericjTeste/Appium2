@@ -11,7 +11,7 @@ import org.junit.rules.TestName;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 
-public class BaseTest {
+public class BaseTest { //APAGAR ESSE COMENTARIO RS
 
 	@Rule
 	public TestName testName = new TestName();
